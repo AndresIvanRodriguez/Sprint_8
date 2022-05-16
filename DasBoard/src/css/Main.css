@@ -1,0 +1,47 @@
+.main {
+
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(8, 5, 53);
+    border-radius: 5px;
+}
+.totales{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+.totalCart{
+    width: 30%;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+    background-color: azure;
+    border-radius: 10px;
+
+}
+.tabla{
+    padding: 5px;
+    background-color: azure;
+    margin: 7px;
+    border-radius: 7px;
+}
+
+
+.table {     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;    margin: 45px;     width: 480px; text-align: left;    border-collapse: collapse; }
+
+.th {     font-size: 13px;     font-weight: normal;     padding: 8px;     background: #b9c9fe;
+    border-top: 4px solid #aabcfe;    border-bottom: 1px solid #fff; color: #039; }
+
+.td {    padding: 8px;     background: #e8edff;     border-bottom: 1px solid #fff;
+    color: #669;    border-top: 1px solid transparent; }
+
+
+.categori{
+
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}

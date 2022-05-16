@@ -1,0 +1,41 @@
+#sideBar {
+    width: 23.5%;
+    background-color: rgba(8, 5, 53);
+    border-radius: 7px;
+}
+
+#Top {
+    background-color: rgb(8, 5, 53);
+    padding: 5px;
+    margin: 3px;
+    height: 20%;
+    align-items: center;
+    align-content: center;
+}
+
+.BotonSideBar{
+    padding: 5px;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+    width: 95%;
+    text-align: center;
+    background-color: #0c1661;
+    color: white;
+    font-size: 14px;    
+    padding: 5px;
+    margin: 15px 0px;
+
+}
+
+a{
+
+    text-decoration: none;
+    font-size: 20px;
+    font-style: inherit;
+    color: white;
+    
+    
+}

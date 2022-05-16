@@ -1,0 +1,9 @@
+#app{
+
+    width: 100%;
+    display: flex;
+    background-color:white;
+    justify-content: space-between;
+    position: relative;
+    height: 100%;
+}
